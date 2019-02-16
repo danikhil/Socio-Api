@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danikhil/Socio-Api/issues"
   },
-  "homepage": "https://github.com/danikhil/Socio-Api#readme"
+  "homepage": "https://github.com/danikhil/Socio-Api#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
